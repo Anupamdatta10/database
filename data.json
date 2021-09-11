@@ -1,61 +1,85 @@
-{"data": [
-    {
-        "Pid":0,
-        "Product_name": "PHILIPS TAT1215BK (TWS) with IPX4 Splash-Proof Design Bluetooth Headset  (Black, True Wireless)",
-        "Product_price": 540.00,
-        "quantity": 0,
-        "imgurl":
-           [ "https://rukminim1.flixcart.com/image/416/416/kkzrpu80/headphone/u/w/8/tat1215bk-97-philips-original-imagy7hzhatcv4g2.jpeg?q=70"],
-        "Product_category": ["electronics", "headphones", "sound"],
-        "variant": ["music", "accessories", "wireless"],
-        "description": "The earbuds feature Bluetooth 5.1 technology. You can pair them easily with any compatible device by taking them out of their charging case. They also quickly identify the device with which they were last paired.",
+{
+    "data": [
+        {
+            "Pid": 0,
+            "Product_name": "PHILIPS TAT1215BK (TWS) with IPX4 Splash-Proof Design Bluetooth Headset  (Black, True Wireless)",
+            "Product_price": 540.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://rukminim1.flixcart.com/image/416/416/kkzrpu80/headphone/u/w/8/tat1215bk-97-philips-original-imagy7hzhatcv4g2.jpeg?q=70"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wireless"
+            ],
+            "description": "The earbuds feature Bluetooth 5.1 technology. You can pair them easily with any compatible device by taking them out of their charging case. They also quickly identify the device with which they were last paired.",
+            "specification": {
+                "Model_Name": "TAT1215BK/97",
+                "Color": "Black",
+                "Headphone_Type": "True Wireless",
+                "Inline_Remote": "No",
+                "Connectivity": "Bluetooth"
+            }
+        },
+        {
+            "Pid": 1,
+            "Product_name": "Noise Tune CHARGE Neckband Bluetooth Headset  (Jet Black, In the Ear)",
+            "Product_price": 500.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://rukminim1.flixcart.com/image/416/416/kbqu4cw0/headphone/g/n/k/tune-charge-neckband-noise-original-imaftf72r5wwnh6f.jpeg?q=70"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wireless"
+            ],
+            "description": " Free yourself from tangled wires with this headset from Noise. It comes with a bass booster button and 10 mm drivers so that you receive clear sound. On top of that, the magnetic earbuds ensure that this headset is securely placed around your neck when you are not using it. Furthermore, the IPX5 rating makes it sweat-resistant so that you can listen to your favourite workout music.",
         "specification": {
-            "Model_Name": "TAT1215BK/97",
-            "Color": "Black",
-            "Headphone_Type": "True Wireless",
-            "Inline_Remote": "No",
-            "Connectivity": "Bluetooth"
+                "Model_Name": "TBRTY/66",
+                "Color": "Black",
+                "Headphone_Type": "True Wireless",
+                "Inline_Remote": "No",
+                "Connectivity": "Bluetooth"
+            }
+        },
+        {
+            "Pid":2,
+            "Product_name": "Noise Shots RUSH Truly Wireless Bluetooth Headset  (Charcoal Grey, True Wireless)",
+            "Product_price": 50.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://rukminim1.flixcart.com/image/416/416/kd7pevk0/headphone/h/i/l/shots-rush-truly-wireless-noise-original-imafu6ea59s6bjnk.jpeg?q=70"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wireless"
+            ],
+            "description": "Immerse yourself in captivating sounds with this headset from Noise. With 12 mm speaker drivers, this headset offers powerful bass, making your groovy playlist even more groovy. You can play your games using this headset, thanks to the low latency mode that this headset offers. Moreover, it comes with an IPX5 rating that makes it waterproof for your daily gym visits.",
+            "specification": {
+                "Model_Name": "S5BK/97",
+                "Color": "Black",
+                "Headphone_Type": "True Wireless",
+                "Inline_Remote": "No",
+                "Connectivity": "Bluetooth"
+            }
         }
-
-    },
-    {
-        "Pid":0,
-        "Product_name": "PHILIPS TAT1215BK (TWS) with IPX4 Splash-Proof Design Bluetooth Headset  (Black, True Wireless)",
-        "Product_price": 540.00,
-        "quantity": 0,
-        "imgurl":
-           [ "https://rukminim1.flixcart.com/image/416/416/kkzrpu80/headphone/u/w/8/tat1215bk-97-philips-original-imagy7hzhatcv4g2.jpeg?q=70"],
-        "Product_category": ["electronics", "headphones", "sound"],
-        "variant": ["music", "accessories", "wireless"],
-        "description": "The earbuds feature Bluetooth 5.1 technology. You can pair them easily with any compatible device by taking them out of their charging case. They also quickly identify the device with which they were last paired.",
-        "specification": {
-            "Model_Name": "TAT1215BK/97",
-            "Color": "Black",
-            "Headphone_Type": "True Wireless",
-            "Inline_Remote": "No",
-            "Connectivity": "Bluetooth"
-        }
-
-    },
-    {
-        "Pid":0,
-        "Product_name": "PHILIPS TAT1215BK (TWS) with IPX4 Splash-Proof Design Bluetooth Headset  (Black, True Wireless)",
-        "Product_price": 540.00,
-        "quantity": 0,
-        "imgurl":
-           [ "https://rukminim1.flixcart.com/image/416/416/kkzrpu80/headphone/u/w/8/tat1215bk-97-philips-original-imagy7hzhatcv4g2.jpeg?q=70"],
-        "Product_category": ["electronics", "headphones", "sound"],
-        "variant": ["music", "accessories", "wireless"],
-        "description": "The earbuds feature Bluetooth 5.1 technology. You can pair them easily with any compatible device by taking them out of their charging case. They also quickly identify the device with which they were last paired.",
-        "specification": {
-            "Model_Name": "TAT1215BK/97",
-            "Color": "Black",
-            "Headphone_Type": "True Wireless",
-            "Inline_Remote": "No",
-            "Connectivity": "Bluetooth"
-        }
-
-    }
-    
-]
+    ]
 }
