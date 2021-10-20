@@ -80,6 +80,146 @@
                 "Inline_Remote": "No",
                 "Connectivity": "Bluetooth"
             }
-        }
+        },
+        {
+            "Pid": 3,
+            "Product_name": "JBL Free WFH by Harman Wired Over-Ear Headphones",
+            "Product_price": 2540.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://www.reliancedigital.in/medias/JBL-Free-WFH-Headphones-and-Headsets-492338532-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjU3OTZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDg5L2g1My85NTc2NzQxMjQwODYyLmpwZ3w2YjMxMmNiMGJlZmQ5NDI4YTkyZmI3YjAzMDE3ZmRmZmU0ZWFlNzVmNzM2YmUyMTY3ZmIzZDBhYjdmNjVlNjgx"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wired"
+            ],
+            "description": "Powerful JBL Signature Sound delivered by 40mm drivers means your calls and music will be incredibly clear, whether you're listening to David Bowie or Dave from accounting.",
+            "specification": {
+                "Model_Name": "	QUANTUM",
+                "Color": "Black",
+                "Headphone_Type": "Over-Ear",
+                "Inline_Remote": "No",
+                "Connectivity": "3.5mm aux"
+            }
+        },
+        {
+            "Pid": 4,
+            "Product_name": "CosmicByte equinox europa RGB Wired Headset  (Black/Red, On the Ear)",
+            "Product_price": 2,599.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://rukminim1.flixcart.com/image/416/416/k3rmm4w0/headphone/n/m/s/cosmic-byte-7-1-rgb-enc-gaming-original-imafmt6uzg8zjuum.jpeg?q=70"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+                "Gamming"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wired"
+            ],
+            "description": "Powerful Sound delivered by 40mm drivers means your calls and music will be incredibly clear, whether you're listening to David Bowie or Dave from accounting.",
+            "specification": {
+                "Model_Name": "	EQUINOX RGB",
+                "Color": "Black",
+                "Headphone_Type": "Over-Ear",
+                "Inline_Remote": "No",
+                "Connectivity": "3.5mm aux"
+            }
+        },
+         {
+            "Pid": 5,
+            "Product_name": "Boult Audio Ranger Bluetooth Gaming Headset  (Black, On the Ear)",
+            "Product_price": 1,599.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://rukminim1.flixcart.com/image/416/416/kf8kvbk0-0/headphone/h/e/d/probass-ranger-boult-audio-original-imafvqnstnkyf7dt.jpeg?q=70"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+                "Gamming"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wireless"
+            ],
+            "description": "The Boult Audio ProBass Ranger Bluetooth headset comes with micro-woofers that take your music-listening experience to the next level with added bass.",
+            "specification": {
+                "Model_Name": "	Ranger",
+                "Color": "Black",
+                "Headphone_Type": "Over-Ear",
+                "Inline_Remote": "No",
+                "Connectivity": "Bluetooth"
+            }
+        },
+         {
+            "Pid": 6,
+            "Product_name": "ZEBRONICS Zeb-Duke (Black) Bluetooth Headset  (Black, On the Ear)",
+            "Product_price": 3,400.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://rukminim1.flixcart.com/image/416/416/kixgtjk0-0/headphone/1/u/q/zeb-duke-black-zebronics-original-imafyhzvwqhygfhb.jpeg?q=70"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+                "Gamming"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wireless"
+            ],
+            "description": "Immerse yourself in captivating sounds with this headset from Zebronics. The ergonomic design of this headset delivers the utmost comfort, thanks to the adjustable headband. The RGB lights add a touch of style while you groove to your music. Moreover, this pair of headphones give you up to 30 hours of uninterrupted playtime on a single charge.",
+            "specification": {
+                "Model_Name": "	Zeb-Duke (Black)",
+                "Color": "Black",
+                "Headphone_Type": "Over-Ear",
+                "Inline_Remote": "No",
+                "Connectivity": "Bluetooth"
+            }
+        },
+                 {
+            "Pid": 7,
+            "Product_name": "INFINITY by Harman Glide 501 Bluetooth Headset  (Black, On the Ear)",
+            "Product_price": 999.00,
+            "quantity": 0,
+            "imgurl": [
+                "https://rukminim1.flixcart.com/image/416/416/k4u7i4w0/headphone/f/x/2/infinity-glide-501-original-imafnnem27b5h3dv.jpeg?q=70"
+            ],
+            "Product_category": [
+                "electronics",
+                "headphones",
+                "sound"
+                "Gamming"
+            ],
+            "variant": [
+                "music",
+                "accessories",
+                "wireless"
+            ],
+            "description": "Immerse yourself in captivating sounds with this headset from Zebronics. The ergonomic design of this headset delivers the utmost comfort, thanks to the adjustable headband. The RGB lights add a touch of style while you groove to your music. Moreover, this pair of headphones give you up to 30 hours of uninterrupted playtime on a single charge.",
+            "specification": {
+                "Model_Name": "	Glide 501",
+                "Color": "Black",
+                "Headphone_Type": "Over-Ear",
+                "Inline_Remote": "No",
+                "Connectivity": "Bluetooth"
+            }
+        },
+        
     ]
 }
