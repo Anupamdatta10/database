@@ -101,7 +101,7 @@
             ],
             "description": "Powerful JBL Signature Sound delivered by 40mm drivers means your calls and music will be incredibly clear, whether you're listening to David Bowie or Dave from accounting.",
             "specification": {
-                "Model_Name": "	QUANTUM",
+                "Model_Name": "QUANTUM",
                 "Color": "Black",
                 "Headphone_Type": "Over-Ear",
                 "Inline_Remote": "No",
@@ -111,7 +111,7 @@
         {
             "Pid": 4,
             "Product_name": "CosmicByte equinox europa RGB Wired Headset  (Black/Red, On the Ear)",
-            "Product_price": 2,599.00,
+            "Product_price": 2599.00,
             "quantity": 0,
             "imgurl": [
                 "https://rukminim1.flixcart.com/image/416/416/k3rmm4w0/headphone/n/m/s/cosmic-byte-7-1-rgb-enc-gaming-original-imafmt6uzg8zjuum.jpeg?q=70"
@@ -119,7 +119,7 @@
             "Product_category": [
                 "electronics",
                 "headphones",
-                "sound"
+                "sound",
                 "Gamming"
             ],
             "variant": [
@@ -129,7 +129,7 @@
             ],
             "description": "Powerful Sound delivered by 40mm drivers means your calls and music will be incredibly clear, whether you're listening to David Bowie or Dave from accounting.",
             "specification": {
-                "Model_Name": "	EQUINOX RGB",
+                "Model_Name": "EQUINOX RGB",
                 "Color": "Black",
                 "Headphone_Type": "Over-Ear",
                 "Inline_Remote": "No",
@@ -139,7 +139,7 @@
          {
             "Pid": 5,
             "Product_name": "Boult Audio Ranger Bluetooth Gaming Headset  (Black, On the Ear)",
-            "Product_price": 1,599.00,
+            "Product_price": 1599.00,
             "quantity": 0,
             "imgurl": [
                 "https://rukminim1.flixcart.com/image/416/416/kf8kvbk0-0/headphone/h/e/d/probass-ranger-boult-audio-original-imafvqnstnkyf7dt.jpeg?q=70"
@@ -147,7 +147,7 @@
             "Product_category": [
                 "electronics",
                 "headphones",
-                "sound"
+                "sound",
                 "Gamming"
             ],
             "variant": [
@@ -157,7 +157,7 @@
             ],
             "description": "The Boult Audio ProBass Ranger Bluetooth headset comes with micro-woofers that take your music-listening experience to the next level with added bass.",
             "specification": {
-                "Model_Name": "	Ranger",
+                "Model_Name": "Ranger",
                 "Color": "Black",
                 "Headphone_Type": "Over-Ear",
                 "Inline_Remote": "No",
@@ -167,7 +167,7 @@
          {
             "Pid": 6,
             "Product_name": "ZEBRONICS Zeb-Duke (Black) Bluetooth Headset  (Black, On the Ear)",
-            "Product_price": 3,400.00,
+            "Product_price": 3400.00,
             "quantity": 0,
             "imgurl": [
                 "https://rukminim1.flixcart.com/image/416/416/kixgtjk0-0/headphone/1/u/q/zeb-duke-black-zebronics-original-imafyhzvwqhygfhb.jpeg?q=70"
@@ -175,7 +175,7 @@
             "Product_category": [
                 "electronics",
                 "headphones",
-                "sound"
+                "sound",
                 "Gamming"
             ],
             "variant": [
@@ -185,7 +185,7 @@
             ],
             "description": "Immerse yourself in captivating sounds with this headset from Zebronics. The ergonomic design of this headset delivers the utmost comfort, thanks to the adjustable headband. The RGB lights add a touch of style while you groove to your music. Moreover, this pair of headphones give you up to 30 hours of uninterrupted playtime on a single charge.",
             "specification": {
-                "Model_Name": "	Zeb-Duke (Black)",
+                "Model_Name": "Zeb-Duke (Black)",
                 "Color": "Black",
                 "Headphone_Type": "Over-Ear",
                 "Inline_Remote": "No",
@@ -203,7 +203,7 @@
             "Product_category": [
                 "electronics",
                 "headphones",
-                "sound"
+                "sound",
                 "Gamming"
             ],
             "variant": [
@@ -213,7 +213,7 @@
             ],
             "description": "Immerse yourself in captivating sounds with this headset from Zebronics. The ergonomic design of this headset delivers the utmost comfort, thanks to the adjustable headband. The RGB lights add a touch of style while you groove to your music. Moreover, this pair of headphones give you up to 30 hours of uninterrupted playtime on a single charge.",
             "specification": {
-                "Model_Name": "	Glide 501",
+                "Model_Name": "Glide 501",
                 "Color": "Black",
                 "Headphone_Type": "Over-Ear",
                 "Inline_Remote": "No",
